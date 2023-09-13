@@ -36,6 +36,8 @@ You can customize the appearance of the buttons and the input field by modifying
 
 This Chrome extension is open-source and released under the [MIT License](LICENSE).
 
+Thanks Template : [SimGus](https://github.com/SimGus/chrome-extension-v3-starter) 
+
 ## Acknowledgments
 
 This extension was created for educational purposes and as a demonstration of Chrome extension development.
